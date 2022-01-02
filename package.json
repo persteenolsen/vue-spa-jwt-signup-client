@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/persteenolsen/vuespajwtsignupclient"
+    "url": "https://github.com/persteenolsen/vue-spa-jwt-signup-client"
   },
   "license": "MIT",
   "scripts": {
